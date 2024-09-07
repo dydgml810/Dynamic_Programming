@@ -22,7 +22,8 @@ Dynamic Programming 파이썬 구현 및 최적화 프로젝트
 
 
 * 점화식 정리
-![점화식](https://github.com/user-attachments/assets/3071f58c-f8ad-4537-83cd-60436e3007e4)
+![image](https://github.com/user-attachments/assets/de4b03ae-8ae0-4d23-bc25-6285f733cf80)
+
 
 <hr/>
 
