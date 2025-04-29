@@ -58,6 +58,6 @@ Dynamic Programming 파이썬 구현 및 최적화 프로젝트
 
 * 파일:
   + Dynamic_Programming.ipynb
-  + 최대 만족도를 위한 쇼핑 방법 최적화.pptx
+  + 최대 만족도를 위한 쇼핑 방법 최적화.pdf
 
 
